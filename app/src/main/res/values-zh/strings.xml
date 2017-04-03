@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">简单2048</string>
+    <string name="start_button">开始</string>
+    <string name="restart">重新开始</string>
+    <string name="score_text">分数:</string>
+    <string name="gameover">游戏结束</string>
+    <string name="your_score">最终分数:</string>
+    <string name="confirm">确定</string>
+</resources>

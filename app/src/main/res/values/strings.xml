@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple_2048</string>
+    <string name="start_button">Start</string>
+    <string name="restart">Restart</string>
+    <string name="score_text">Score:</string>
+    <string name="gameover">Game Over</string>
+    <string name="your_score">Your score is:</string>
+    <string name="confirm">Confirm</string>
+</resources>
