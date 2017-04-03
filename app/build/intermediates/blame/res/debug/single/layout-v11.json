@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\S2048\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\q\\.android\\build-cache\\1a5abd60ad3bcb8319baa1857ad66231953c8fea\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\S2048\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\q\\.android\\build-cache\\1a5abd60ad3bcb8319baa1857ad66231953c8fea\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\S2048\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\q\\.android\\build-cache\\1a5abd60ad3bcb8319baa1857ad66231953c8fea\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\S2048\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\q\\.android\\build-cache\\1a5abd60ad3bcb8319baa1857ad66231953c8fea\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\S2048\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\q\\.android\\build-cache\\1a5abd60ad3bcb8319baa1857ad66231953c8fea\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\S2048\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\q\\.android\\build-cache\\1a5abd60ad3bcb8319baa1857ad66231953c8fea\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]
