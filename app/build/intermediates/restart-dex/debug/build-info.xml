@@ -6,7 +6,7 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1491183561410"
+    timestamp="1491188246636"
     token="938250631322305932"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -18,10 +18,10 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="284" />
+        duration="254" />
     <task
         name="verifier"
-        duration="95" />
+        duration="0" />
 
     <artifact
         location="D:\Android\AndroidStudioProjects\S2048\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
@@ -62,7 +62,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1491183561410"
+        timestamp="1491188246636"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\Android\AndroidStudioProjects\S2048\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
