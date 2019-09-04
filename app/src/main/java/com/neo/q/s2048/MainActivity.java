@@ -364,7 +364,7 @@ public class MainActivity extends AppCompatActivity {
     private class MyGestureListener extends GestureDetector.SimpleOnGestureListener {
 
         // 滑动最小距离
-        private int MIN_MOVE = 100;
+        private int MIN_MOVE = 200;
 
         @Override
         public boolean onFling(MotionEvent e1, MotionEvent e2, float velocityX, float velocityY) {
